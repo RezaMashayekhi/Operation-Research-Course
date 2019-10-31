@@ -1,2 +1,2 @@
 # Operation-Research-Course
-Assignments of Operation Research course that I took at AUT. (2018) 
+Assignments (that required GAMS application) of Operation Research course I took at AUT. (2018) 
